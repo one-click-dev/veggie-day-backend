@@ -1,0 +1,26 @@
+{
+  "name": "find_recipe",
+  "version": "0.1.0",
+  "description": "recipe project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "imakepics"
+  },
+  "keywords": [
+    "recipe",
+    "ingredients",
+    "find_recipe"
+  ],
+  "author": "Maryna Livakivska",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "couchdb-export": "^1.0.8",
+    "express": "^4.17.1",
+    "nano": "^8.2.2"
+  }
+}
